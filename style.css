@@ -24,13 +24,11 @@ h1, h2 {
     color: var(--cor-destaque);
 }
 
-.lead,
-.btn-link {
+.lead,.btn-link {
     font-weight: 600;
     color: var(--cor-destaque);
 }
 
-a:hover,
-.btn-link:hover {
+a:hover,.btn-link:hover {
     color: var(--cor-principal);
 }
