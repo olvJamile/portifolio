@@ -15,7 +15,7 @@ body {
 h1,h2{
     font-family:'brasika';
     color: var(--cor-destaque)
-    font-weight: 700;
+    font-weight: 600;
 }
 
 
