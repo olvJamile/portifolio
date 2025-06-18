@@ -9,11 +9,12 @@
 
 body {
     font-family:'Indie Flower' ;
+    color: var(--cor-principal)
     font-weight: 400;
 }
 
 h1,h2{
-    font-family:'brasika';
+    font-family: 'Brasika Display - Trial', sans-serif;
     color: var(--cor-destaque)
     font-weight: 600;
 }
