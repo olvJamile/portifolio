@@ -9,14 +9,14 @@
 
 body {
     font-family:'Indie Flower' ;
-    color: var(--cor-principal)
     font-weight: 450;
+    color: var(--cor-principal)
 }
 
 h1,h2{
     font-family: 'Brasika Display - Trial', sans-serif;
-    color: var(--cor-destaque)
     font-weight: 600;
+    color: var(--cor-destaque)
 }
 
 
