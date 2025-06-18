@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kavoon&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+
 :root {
     --cor-principal: #336436;
     --cor-secundaria: #131614;
@@ -8,31 +9,27 @@
 
 body {
     background-image: url('img/fundo.png');
-    background-size: cover;      
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-     font-family:'Indie Flower' ;
+    font-family: 'Indie Flower', cursive;
     font-weight: 500;
-    color: var(--cor-principal)
+    color: var(--cor-principal);
 }
 
-h1,h2{
-.kavoon-regular {
-  font-family: "Kavoon", serif;
-  font-weight: 600;
-  font-style: normal;
-  color: var(--cor-destaque)
+h1, h2 {
+    font-family: 'Kavoon', serif;
+    font-weight: 600;
+    color: var(--cor-destaque);
 }
 
-.lead, btn-link{
-    font-weight:600;
-    color:var(--cor-destaque)
+.lead,
+.btn-link {
+    font-weight: 600;
+    color: var(--cor-destaque);
 }
 
-    color: var(--cor-destaque)
-}
-
-
-a, btn-link:hover{
-    color: var(--cor-principal)
+a:hover,
+.btn-link:hover {
+    color: var(--cor-principal);
 }
