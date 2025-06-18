@@ -7,7 +7,11 @@
 }
 
 body {
-    font-family:'Indie Flower' ;
+    background-image: url('img/fundo.png');
+    background-size: cover;      
+    background-position: center;  
+    background-repeat: no-repeat;
+     font-family:'Indie Flower' ;
     font-weight: 500;
     color: var(--cor-principal)
 }
